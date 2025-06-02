@@ -1,1 +1,1 @@
-from .list_nas_content import GetNasData
+from .list_nas_content import ListFolderData
